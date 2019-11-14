@@ -1,1 +1,1 @@
-print ("my frend")
+print ("my frend");
